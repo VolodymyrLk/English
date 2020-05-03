@@ -7,7 +7,7 @@
 * But **in spite of** all the risks, there is still a staggering number of people who see nothing wrong with giving their private information to companies.
 * **Much as** we’d love to turn a blind eye to this, data has become a form of capital.
 * **Much as** I love fantasy, I find Harry Potter dull and not intriguing.
-* **Unlike** you and I, corporations don’t have a conscience.
+* **Unlike** my dad, I didn’t want to follow in my father’s footsteps.
 * **Contrary to** popular belief, however, there are steps we can take to combat these questionable data collection practices.
 * We work together. **However**, I’m not her personal assistant.
 * People still think of them as safe spaces, **whereas** they’re anything but.
