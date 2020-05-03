@@ -19,3 +19,4 @@
 > Note! Don't mix with the word **beside**: *There are  motorcycles are all parked  beside one by one.*
 * **Additionally**, in some cases, thanks to outdoor surveillance, crimes can be deterred before they even begin.
 * In the meantime, **in addition to this**, just be as cautious about sharing your personal data as possible, I guess.
+* I need another lipstick. - Are you serious? You’ve got 20 of them. **Moreover**, you hardly ever use lipstick.
