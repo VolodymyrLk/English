@@ -3,6 +3,7 @@
 ## Contrast
 
 * **Despite** growing evidence to the contrary, some feather-brained liberals out there still think these cameras are too evasive.
+* **Despite** missing a lot, I guess I did well.
 * **Even if** it means that “the Big Brother” will be watching my every move while I’m out and about, as long as I feel secure, I don’t mind.
 * But **in spite of** all the risks, there is still a staggering number of people who see nothing wrong with giving their private information to companies.
 * **Much as** we’d love to turn a blind eye to this, data has become a form of capital.
