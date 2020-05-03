@@ -12,6 +12,7 @@
 * We work together. **However**, I’m not her personal assistant.
 * People still think of them as safe spaces, **whereas** they’re anything but.
 * **Even though** Facebook claims they’ve fixed the issue, I believe there are a lot others.
+* **Even though** I love bread, I don’t buy it since I’m on a carbs-free diet.
 
 ## Additional information
 
