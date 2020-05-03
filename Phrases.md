@@ -3,7 +3,7 @@
 https://quizlet.com/327446457
 
 | Phrase | Meaning | Example |
-| --- | --- | --- |
+| ----------- | --- | --- |
 | come down to | be in the end a matter of | it all **comes down to** money in the end |
 | hold on to | to keep, maintain | a mother can’t hold on to her children for ever |
 | add up to | have a certain result | the cash in the drawer doesn't **add up to** the amount of sales we made today |
