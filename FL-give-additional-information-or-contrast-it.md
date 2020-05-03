@@ -9,6 +9,7 @@
 * **Much as** I love fantasy, I find Harry Potter dull and not intriguing.
 * **Unlike** you and I, corporations don’t have a conscience.
 * **Contrary to** popular belief, however, there are steps we can take to combat these questionable data collection practices.
+* We work together. **However**, I’m not her personal assistant.
 * People still think of them as safe spaces, **whereas** they’re anything but.
 * **Even though** Facebook claims they’ve fixed the issue, I believe there are a lot others.
 
