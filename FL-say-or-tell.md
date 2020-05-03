@@ -4,10 +4,10 @@
 
 | **You tell someone something:** | **You say something:** |
 | --- | --- |
-| **Object** | We do not use **personal object** (John, me or Jane) |
+| We use **Object** | We do not use **personal object** (John, me or Jane) |
 | *Ram **told** > **Jane** that he was tired* | *Ram **said** that he was tired* |
 | *Anthony **tells** > **me** you have a new job* | *She **said** that she loved John* |
-| **Reported speech** | **Reported speech** |
+| **Reported speech** ||
 | *She **told** > **me** that she would call at 2pm* | *She **said** that it was raining* |
 | --- | --- |
 | Tell in **Direct Speech** use only it is an **instruction** or **information** | But we can use **say** + **personal object** with the following construction |
