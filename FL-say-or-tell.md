@@ -1,6 +1,6 @@
 # say OR tell?
 
-* Basically we use **tell** when we inform **someone** about something. But it's not always so easy.
+Basically we use **tell** when we inform **someone** about something. But it's not always so easy.
 
 | **You tell someone something:** | **You say something:** |
 | --- | --- |
