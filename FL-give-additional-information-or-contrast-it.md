@@ -9,7 +9,7 @@
 * **Unlike** you and I, corporations don’t have a conscience.
 * **Contrary to** popular belief, however, there are steps we can take to combat these questionable data collection practices.
 * People still think of them as safe spaces, **whereas** they’re anything but.
-* **Even though** Facebook claims they’ve fixed the issue, how can we know for certain?
+* **Even though** Facebook claims they’ve fixed the issue, I believe there are a lot others.
 
 ## Additional information
 
